@@ -1,0 +1,8 @@
+.footer{
+    margin-left: 12vw;
+    margin-right: 12vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5584AC;
+}
