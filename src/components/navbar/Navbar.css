@@ -1,0 +1,26 @@
+.navbar{
+    margin-left: 12vw;
+    margin-right: 12vw;
+    padding: 1rem 0;
+    background-color: #519259;
+}
+.navbar-nav{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.navbar-nav{
+    list-style-type: none;
+}
+.nav-item{
+    padding: .3rem .5rem;
+    border-radius: 7%;
+    transition: width 100px ;
+}
+.nav-item:hover{
+    background-color: aqua;
+    transition: width 300px ;
+}
+.navbar-nav .nav-item .nav-link{ 
+    text-decoration: none;
+}
